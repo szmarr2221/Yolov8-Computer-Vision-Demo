@@ -1,4 +1,4 @@
-title: Yolov8 Computer Vision
+Title: Yolov8 Computer Vision
 emoji: ⚡
 colorFrom: purple
 colorTo: yellow
